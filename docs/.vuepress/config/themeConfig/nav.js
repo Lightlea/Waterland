@@ -1,9 +1,9 @@
 // nav
 module.exports = [
   { text: '首页', link: '/' },
-  { text: 'one',link: '/one/',},
-  { text: 'two',link: '/two/',},
-  { text: 'three', link: '/three/' },
+  { text: '随笔',link: '/one/',},
+  { text: '脑内剧场',link: '/two/',},
+  { text: '纸堆', link: '/three/' },
   { text: '留言板', link: '/message-board/' },
-  { text: '我的博客', link: 'https://wiki.eryajf.net' },
+  { text: '豆瓣首页', link: 'https://www.douban.com/people/passerby535/?_i=9993186uNcTtu4'},
 ]

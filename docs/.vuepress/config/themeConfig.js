@@ -40,8 +40,8 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: '二丫讲梵', // 必需
-    link: 'https://github.com/eryajf', // 可选的
+    name: '洼地野人', // 必需
+    link: 'https://www.douban.com/people/passerby535/?_i=9991034uNcTtu4', // 可选的
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -50,17 +50,17 @@ module.exports = {
       {
         iconClass: 'icon-github',
         title: 'GitHub',
-        link: 'https://github.com/eryajf',
+        link: 'https://github.com',
       },
       {
         iconClass: 'icon-youjian',
         title: '发邮件',
-        link: 'mailto:eryajf@163.com',
+        link: 'passerby535@gmail.com',
       },
       {
-        iconClass: 'icon-gitee',
-        title: 'Gitee',
-        link: 'https://gitee.com/eryajf',
+        iconClass: 'icon-douban',
+        title: '豆瓣',
+        link: 'https://www.douban.com/people/passerby535/?_i=9996844uNcTtu4',
       },
     ],
   },
