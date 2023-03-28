@@ -1,14 +1,14 @@
 <div align="center">
-<h1>vdoing-template</h1>
+<h1>Waterland</h1>
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vdoing-template)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vdoing-template)](https://github.com/eryajf/vdoing-template/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/vdoing-template.svg)](https://github.com/eryajf/vdoing-template)
-[![website eryajf.github.io/vdoing-template](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/vdoing-template.svg)](https://eryajf.github.io/vdoing-template/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/Waterland)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/Waterland.svg)](https://github.com/eryajf/Waterland/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/Waterland)](https://github.com/eryajf/Waterland/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/Waterland)](https://github.com/eryajf/Waterland/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/Waterland)](https://github.com/eryajf/Waterland/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/Waterland.svg)](https://github.com/eryajf/Waterland)
+[![website eryajf.github.io/Waterland](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/Waterland.svg)](https://eryajf.github.io/Waterland/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
@@ -40,7 +40,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vdoing-template](https://github.com/eryajf/vdoing-template)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[Waterland](https://github.com/eryajf/Waterland)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
