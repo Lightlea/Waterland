@@ -4,6 +4,6 @@ module.exports = [
   { text: '随笔',link: '/one/',},
   { text: '脑内剧场',link: '/two/',},
   { text: '纸堆', link: '/three/' },
-  { text: '留言板', link: '/message-board/' },
+  { text: '关于洼地野人', link: '/message-board/' },
   { text: '豆瓣首页', link: 'https://www.douban.com/people/passerby535/?_i=9993186uNcTtu4'},
 ]
