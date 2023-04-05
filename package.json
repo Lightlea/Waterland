@@ -17,7 +17,7 @@
     "inquirer": "^7.1.0",
     "json2yaml": "^1.1.0",
     "segmentit": "^2.0.3",
-    "vuepress": "1.8.0",
+    "vuepress": "^1.9.9",
     "vuepress-plugin-fulltext-search": "^2.2.1",
     "vuepress-plugin-one-click-copy": "^1.0.2",
     "vuepress-plugin-zooming": "^1.1.7",
@@ -26,7 +26,15 @@
   },
   "dependencies": {
     "busuanzi.pure.js": "^1.0.3",
+    "chokidar": "^3.5.3",
+    "formidable": "^2.1.1",
+    "fsevents": "^2.3.2",
     "leancloud-storage": "^4.11.1",
+    "mkdirp": "^2.1.6",
+    "querystring": "^0.2.1",
+    "source-map-resolve": "^0.6.0",
+    "superagent": "^8.0.9",
+    "uuid": "^9.0.0",
     "vuepress-plugin-vssue-global": "^0.0.3"
   }
 }

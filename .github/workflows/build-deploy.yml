@@ -31,4 +31,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  
         with:
           folder: docs/.vuepress/dist
-          branch: gh-pages # 部署到的分支
+          branch: gh-pages # 部署到的分支 
