@@ -28,13 +28,16 @@
     "busuanzi.pure.js": "^1.0.3",
     "chokidar": "^3.5.3",
     "formidable": "^2.1.1",
-    "fsevents": "^2.3.2",
     "leancloud-storage": "^4.11.1",
     "mkdirp": "^2.1.6",
+    "nth-check": "^2.1.1",
     "querystring": "^0.2.1",
     "source-map-resolve": "^0.6.0",
     "superagent": "^8.0.9",
     "uuid": "^9.0.0",
     "vuepress-plugin-vssue-global": "^0.0.3"
+  },
+  "optionalDependencies": {
+    "fsevents": "^2.3.2"
   }
 }
